@@ -1,6 +1,6 @@
-# Konzept
+# 2.0 Konzept
 
-## Phasen
+## 2.0.1Phasen
 
 ![Phasen](https://raw.githubusercontent.com/srothPuzzle/FeedbackTool/master/phasen.jpg)
 
