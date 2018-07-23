@@ -21,10 +21,10 @@
 
 ### 2 Konzeption
 
-* 2.0 [Konzept](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.0_konzept.md)
+* 2.0 [Konzept](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/Pfeedback_Dokumentation_Konzept.md)
     * 2.0.1 Phasen
     * 2.0.2 Arbeitsschritte
-* 2.1 [Anwendungsfälle](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.1_use_cases/readme.md)
+* 2.1 [Anwendungsfälle](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/use_cases)
     * 2.1.1 Anwendungsfall 1
     * 2.1.2 Anwendungsfall 2
     * 2.1.3 Anwendungsfall 3
