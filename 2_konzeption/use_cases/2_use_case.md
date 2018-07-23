@@ -1,6 +1,6 @@
 # 2.1.1 Anwendungsfall 2: 
 
-| Beschreibung | Einen neuen Fragebogen hinzufügen |
+| Beschreibung | Einen neuen Fragebogen erstellen |
 | ------------- | --- |
 | Vorbedingungen | <ul><li> Benutzer mit der richtigen Rolle </li></ul> |
 | Akteur | Benutzer |
