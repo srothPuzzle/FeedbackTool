@@ -2,7 +2,7 @@
 
 | Akteure | Beschreibung |
 | ------- | ------------ |
-| User | Der Benutzer ist ein Mitarbeiter von Puzzle. Der Benutzer erhält abhängig von seiner Rolle bei Puzzle andere Rechte. |
+| Benutzer | Der Benutzer ist ein Mitarbeiter von Puzzle. Der Benutzer erhält abhängig von seiner Rolle bei Puzzle andere Rechte. |
 
 
 ### Anwendungsfälle
