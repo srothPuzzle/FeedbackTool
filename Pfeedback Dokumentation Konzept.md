@@ -36,8 +36,7 @@ dann in den Mitarbeitergesprächen gebraucht.
 * Key Cloak wird als IAM verwendet.
 * Als Technologie wird Java 9, Angular 6, PostgreSQL Datenbank, Spring Boot 2 verwendet.
 * Die Testabdeckung soll > 90% sein.
-* Die Codequaltät soll exzellent sein.
-* Die User Experience hat einen hohen Stellenwert.
+* Die Codequaltät soll exzellent sein wie in Clean Code von Robert C. Martin beschrieben.
 * Als Designrichtlinie dient [Google Material Design](https://material.io/).
 
 
