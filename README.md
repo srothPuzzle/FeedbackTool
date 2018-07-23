@@ -4,7 +4,7 @@
 
 ### 1 Initialisierung
 
-* 1.1 [Aufgabenstellung](https://github.com/srothPuzzle/FeedbackTool/master/1_initialisierung/PfeedbackTool_Dokumentation_Aufgabenstellung.md)
+* 1.1 [Aufgabenstellung](FeedbackTool/1_initialisierung/Pfeedback_Dokumentation_Aufgabenstellung.md )
     * 1.1.1 Titel der Arbeit
     * 1.1.2 Thematik
     * 1.1.3 Ausgangslage
