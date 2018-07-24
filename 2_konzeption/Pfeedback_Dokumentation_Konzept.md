@@ -2,7 +2,7 @@
 
 ## 2.0.1 Phasen
 
-![Phasen](https://raw.githubusercontent.com/puzzle/mailbox-watcher/master/doc/2_konzeption/img/phasen.jpg)
+![Phasen](https://raw.githubusercontent.com/srothPuzzle/FeedbackTool/master/1_initialisierung/images/phasen.jpg)
 
 ## 2.0.2 Arbeitsschritte
 
