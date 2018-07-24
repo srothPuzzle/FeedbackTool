@@ -46,10 +46,10 @@ Key Cloak authentifizierung mit Sprint Security einbinden.
 
 **Back to Frond UseCases implementieren**
 
-***Backend API implementieren***
+1. Backend API implementieren
 API Schnittstelle, Controller, Services, Unit Tests
 
-***Frontend***
+1. Frontend
 Komponente, Services und Modele mit Swagger erstellen, View designen, Usability Tests, Acceptance Tests
 
 ### Einführung
