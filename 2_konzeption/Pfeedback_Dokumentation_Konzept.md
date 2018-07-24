@@ -52,6 +52,9 @@ API Schnittstelle, Controller, Services, Unit Tests
 1. Frontend: 
 Komponente, Services und Modele mit Swagger erstellen, View designen, Usability Tests, Acceptance Tests
 
+
+![Realisierung](https://raw.githubusercontent.com/srothPuzzle/FeedbackTool/master/2_konzeption/images/realisierung.jpg)
+
 ### Einführung
 
 **Readme**
