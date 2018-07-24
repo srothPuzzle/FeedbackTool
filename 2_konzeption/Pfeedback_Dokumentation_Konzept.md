@@ -58,8 +58,3 @@ Komponente, Services und Modele mit Swagger erstellen, View designen, Usability 
 
 Ein Readme mit kurzer Beschreibung, Installationsanleitung und Feature-Auflistung soll geschrieben werden.
 
-**Betrieb auf OpenShift**
-
-Die Applikation soll schliesslich auf OpenShift betrieben werden.
-Dazu muss das Projekt aufgesetzt werden und in dem Configuration File muss alles konfiguriert werden.
-Am Schluss muss die Applikation in einem Container laufen.
