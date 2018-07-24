@@ -9,7 +9,7 @@
 
 | Nummer | Beschreibung |
 | ------ | ------------ |
-| 1 | [Eine neue Frage erstellen](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/use_cases/1_use_cases.md) |
+| 1 | [Eine neue Frage erstellen](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/use_cases/1_use_case.md) |
 | 2 | [Einen neuen Fragebogen erstellen](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/use_cases/2_use_case.md) |
 | 3 | [Einen Fragebogen ausfüllen](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/use_cases/3_use_case.md) |
 | 4 | [Die Read,Update und Delete Funktionen bei einer Frage anwenden](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/use_cases/5_use_case.md) |
