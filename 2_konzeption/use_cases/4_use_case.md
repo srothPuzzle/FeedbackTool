@@ -7,3 +7,5 @@
 | Auslöser | Der Benutzer möchte eine Frage bearbeiten |
 | Ablauf | 1. Eine Frage auswählen <br/> 2. Die Änderung vornehmen <br/> 3. Änderung bestätigen |
 | Ergebnisse | <ul><li>Erwartet: Die Änderung wird in die Datenbank geschrieben. </li></ul> |
+| Fehlerfall | <ul><li> Datenbank nicht erreichbar </li></ul>| 
+| System Reaktion | - |
