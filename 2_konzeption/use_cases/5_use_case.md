@@ -6,4 +6,6 @@
 | Akteur | Benutzer |
 | Auslöser | Der Benutzer möchte einen Fragebogen bearbeiten |
 | Ablauf | 1. Einen Fragebogen auswählen <br/> 2. Die Änderung vornehmen <br/> 3. Änderung bestätigen |
-| Ergebnisse | <ul><li>Erwartet: Die Änderung wird in die Datenbank geschrieben. </li></ul> |
+| Ergebnisse | Die Änderung wird in die Datenbank geschrieben. |
+| Fehlerfall | <ul><li> Datenbank nicht erreichbar </li></ul>| 
+| System Reaktion | - |
