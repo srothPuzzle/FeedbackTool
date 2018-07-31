@@ -6,13 +6,13 @@ PFEEDBACK -360° Feedback
 
 ## 1.1.2 Thematik
 
-Webservice für das Bewerten von Puzzle Mitarbeitern
+Webapplikation für das Bewerten von Puzzle Mitarbeitern
 
 ## 1.1.3 Ausgangslage
 
-Momentan bekommt ein Mitarbeiter bei Puzzle nur selten Feedback und wenn er welches bekommt kommt das vom Vorgesetzten der kaum
+Momentan bekommt ein Mitarbeiter bei Puzzle nur selten Feedback und wenn er welches bekommt, kommt das vom Vorgesetzten der kaum
 oder gar nicht mit dem Mitarbeiter zusammenarbeitet. So weiss ein Mitarbeiter nicht was dieser an sich verbessern könnte oder was
-dieser bereits gut macht. 
+dieser bereits gut macht. Ausserdem werden zwei mal im Jahr Mitarbeitergespräche durchgeführt
 
 ## 1.1.4 Detaillierte Aufgabenstellung
 
