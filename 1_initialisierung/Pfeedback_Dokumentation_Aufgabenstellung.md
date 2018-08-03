@@ -12,23 +12,21 @@ Webapplikation für das Bewerten von Puzzle Mitarbeitern
 
 Momentan bekommt ein Mitarbeiter bei Puzzle nur selten Feedback und wenn er welches bekommt, kommt das vom Vorgesetzten der kaum
 oder gar nicht mit dem Mitarbeiter zusammenarbeitet. So weiss ein Mitarbeiter nicht was dieser an sich verbessern könnte oder was
-dieser bereits gut macht. Ausserdem werden zwei mal im Jahr Mitarbeitergespräche durchgeführt
+dieser bereits gut macht.
 
 ## 1.1.4 Detaillierte Aufgabenstellung
 
 Es soll nun eine webbasierte Feedback Applikation entwickelt werden, welche es allen Mitarbeitern erlaubt einen anderen 
-Mitarbeiter oder eine ganze Abteilung zu bewerten. Es wird eine Rolle geben die die Fragen schreiben kann. Diese Feedbacks werden
-dann in den Mitarbeitergesprächen gebraucht.
+Mitarbeiter zu bewerten. Es wird eine Rolle geben die die Fragen schreiben kann. Diese Feedbacks werden
+dann in den Mitarbeitergesprächen gebraucht um dem Miratbeiter eine bessere Rückmeldung zu geben.
 
 ## 1.1.5 Funktionale Anforderungen
 
 * Ein Admin muss Fragen, welche als Feedback Grundlage dienen sollen, definieren können.
 * Ein Admin muss Fragebögen, welche mehrere Fragen zu einer Gruppe zusammenfassen, erstellen können.
 * Ein Admin muss sämtliche Mitglieder der Feedback Applikation verwalten können.
-* Ein Admin muss sämtliches Feedback evaluieren können.
 * Ein User muss das Feedback über sich anschauen können.
 * Ein User muss das Feedback das er über andere geschrieben hat anschauen können.
-* Ein User muss das Feedback betreffen seiner Gruppe ansehen können.
 * Ein User muss Feedback von einer anderen Person einfordern können.
 
 ## 1.1.6 Nicht funktionale Anforderungen
