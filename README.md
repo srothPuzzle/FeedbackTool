@@ -29,7 +29,7 @@
     * 2.1.2 Anwendungsfall 2
     * 2.1.3 Anwendungsfall 3
     * 2.1.4 Anwendungsfall 4
-* 2.2 [Aktivitätendiagramm](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.2_aktivitäten_diagramm.md)
+* 2.2 [Aktivitätendiagramm](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Aktivit%C3%A4tendiagramme)
 * 2.3 Config Konzept
     * 2.3.1 [Config Konzept](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.3_config_konzept/2.3.1_config_konzept.md)
     * 2.3.2 [Beispiel Config](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.3_config_konzept/projectname.yml)
