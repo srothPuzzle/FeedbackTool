@@ -1,3 +1,3 @@
 Klassendiagramm
 
-![alt text](https://github.com/srothPuzzle/FeedbackTool/2_konzeption/Klassendiagramm/klassendiagramm.png)
+![alt text](https://github.com/srothPuzzle/FeedbackTool/blob/master/2_konzeption/Klassendiagramm/Klassendiagramm.png)
