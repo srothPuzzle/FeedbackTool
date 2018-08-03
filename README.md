@@ -15,7 +15,7 @@
     * 1.1.8 Mittel / Methoden / Projektmethode
     * 1.1.9 Datenbank
     * 1.1.10 Vorarbeiten
-* 1.2 [Zeitplan](https://github.com/puzzle/mailbox-watcher/blob/master/doc/1_initialisierung/1.2_zeitplan.md)
+* 1.2 [Zeitplan](https://github.com/srothPuzzle/FeedbackTool/tree/master/1_initialisierung/Zeitplan)
     * 1.2.1 Zeitplan
     * 1.2.2 Meilensteine
 
@@ -30,14 +30,5 @@
     * 2.1.3 Anwendungsfall 3
     * 2.1.4 Anwendungsfall 4
 * 2.2 [Aktivitätendiagramm](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Aktivit%C3%A4tendiagramme)
-* 2.3 Config Konzept
-    * 2.3.1 [Config Konzept](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.3_config_konzept/2.3.1_config_konzept.md)
-    * 2.3.2 [Beispiel Config](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.3_config_konzept/projectname.yml)
-    * 2.3.3 [Secret File Konzept](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.3_config_konzept/2.3.3_secret_file_konzept.md)
-    * 2.3.4 [Beispiel Secret File](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.3_config_konzept/secret.yml)
-* 2.4 [Report](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.4_report_konzept.md)
-    * 2.4.1 JSON Datenstruktur
-    * 2.4.2 Beispiel JSON
-    * 2.4.3 Report Mockups
-* 2.5 [Klassendiagramm](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.5_klassendiagramm.md)
-* 2.6 [Systemübersicht](https://github.com/puzzle/mailbox-watcher/blob/master/doc/2_konzeption/2.6_systemübersicht.md)
+* 2.3 [Klassendiagramm](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Klassendiagramm)
+* 2.4 [Systemübersicht](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Systemübersicht)
