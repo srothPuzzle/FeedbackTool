@@ -29,6 +29,8 @@
     * 2.1.2 Anwendungsfall 2
     * 2.1.3 Anwendungsfall 3
     * 2.1.4 Anwendungsfall 4
+    * 2.1.5 Anwendungsfall 5
+    * 2.1.6 Anwendungsfall 6
 * 2.2 [Aktivitätendiagramm](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Aktivit%C3%A4tendiagramme)
 * 2.3 [Klassendiagramm](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Klassendiagramm)
 * 2.4 [Systemübersicht](https://github.com/srothPuzzle/FeedbackTool/tree/master/2_konzeption/Systemübersicht)
