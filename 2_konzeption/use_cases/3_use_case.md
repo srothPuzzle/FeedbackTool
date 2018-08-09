@@ -1,6 +1,6 @@
 # 2.1.3 Anwendungsfall 3: 
 
-| Beschreibung | Einen Fragebogen ausfüllen |
+| Beschreibung | Aktiv ein Feedback geben |
 | ------------- | --- |
 | Vorbedingungen | <ul><li> Ein Fragebogen existiert </li></ul> |
 | Akteur | Benutzer |
