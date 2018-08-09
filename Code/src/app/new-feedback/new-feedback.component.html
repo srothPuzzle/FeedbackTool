@@ -1,0 +1,84 @@
+<mat-card>
+  <mat-vertical-stepper #stepper>
+    <mat-step [stepControl]="firstFormGroup">
+      <form [formGroup]="firstFormGroup">
+        <ng-template matStepLabel>Feedback an</ng-template>
+        <mat-form-field>
+          <mat-select placeholder="Select">
+            <mat-option value="DummyUser1">DummyUser1</mat-option>
+            <mat-option value="DummyUser2">DummyUser2</mat-option>
+            <mat-option value="DummyUser3">DummyUser3</mat-option>
+            <mat-option value="DummyUser4">DummyUser4</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step [stepControl]="secondFormGroup">
+      <form [formGroup]="secondFormGroup">
+        <ng-template matStepLabel>Fragebogen</ng-template>
+        <mat-form-field>
+          <mat-select placeholder="Select">
+            <mat-option value="DummyFragebogen1">DummyFragebogen1</mat-option>
+            <mat-option value="DummyFragebogen2">DummyFragebogen2</mat-option>
+            <mat-option value="DummyFragebogen3">DummyFragebogen3</mat-option>
+            <mat-option value="DummyFragebogen4">DummyFragebogen4</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step label="Feedback">
+      <form>
+        <div *ngFor="let topic of survey">
+          <br>
+          <h2>{{ topic.topic }}</h2><br>
+          <div *ngFor="let answer of topic.data">
+            <span>{{ answer.shortName }}</span>
+            <div class="input-full-width">
+              <ng-container *ngIf="isTextItem(answer); then text"></ng-container>
+              <ng-container *ngIf="isYesnoItem(answer); then yesno"></ng-container>
+              <ng-container *ngIf="isRangeItem(answer); then range"></ng-container>
+
+              <ng-template #text>
+                <mat-form-field class="input-full-width">
+                <textarea matInput
+                          placeholder="Your Answer" rows="4" maxlength="300"></textarea>
+                </mat-form-field>
+
+              </ng-template>
+
+              <ng-template #yesno>
+                <mat-slide-toggle matInput
+                                 ></mat-slide-toggle>
+
+              </ng-template>
+
+              <ng-template #range><!-- Thumblabel for insane label effects -->
+                <mat-slider matInput
+                            min="0" max="10" step="1"></mat-slider>
+
+              </ng-template>
+            </div>
+          </div>
+          <br>
+          <mat-divider></mat-divider>
+        </div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button (click)="btnClick()">Submit</button>
+      </form>
+    </mat-step>
+  </mat-vertical-stepper>
+</mat-card>
+
+
+
+
+
+

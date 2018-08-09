@@ -1,0 +1,46 @@
+<mat-card>
+  <mat-vertical-stepper #stepper>
+    <mat-step [stepControl]="firstFormGroup">
+      <form [formGroup]="firstFormGroup">
+        <ng-template matStepLabel>Feedback von</ng-template>
+        <mat-form-field>
+          <mat-select placeholder="Select">
+            <mat-option value="DummyUser1">DummyUser1</mat-option>
+            <mat-option value="DummyUser2">DummyUser2</mat-option>
+            <mat-option value="DummyUser3">DummyUser3</mat-option>
+            <mat-option value="DummyUser4">DummyUser4</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step [stepControl]="secondFormGroup">
+      <form [formGroup]="secondFormGroup">
+        <ng-template matStepLabel>Fragebogen</ng-template>
+        <mat-form-field>
+          <mat-select placeholder="Select">
+            <mat-option value="DummyFragebogen1">DummyFragebogen1</mat-option>
+            <mat-option value="DummyFragebogen2">DummyFragebogen2</mat-option>
+            <mat-option value="DummyFragebogen3">DummyFragebogen3</mat-option>
+            <mat-option value="DummyFragebogen4">DummyFragebogen4</mat-option>
+          </mat-select>
+        </mat-form-field>
+        <div>
+          <button mat-button matStepperPrevious>Back</button>
+          <button mat-button matStepperNext>Next</button>
+        </div>
+      </form>
+    </mat-step>
+    <mat-step>
+      <ng-template matStepLabel>Done</ng-template>
+      You are now done.
+      <div>
+        <button mat-button matStepperPrevious>Back</button>
+        <button mat-button (click)="btnClick()">Submit</button>
+      </div>
+    </mat-step>
+  </mat-vertical-stepper>
+</mat-card>
