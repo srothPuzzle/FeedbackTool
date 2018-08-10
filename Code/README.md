@@ -14,4 +14,4 @@ ausführen danach:
 
 ausführen.
 
-Die Applikation sollte jetzt laufen.
+Die Applikation sollte jetzt auf localhost:4200 laufen.
