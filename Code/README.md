@@ -2,7 +2,7 @@
 
 Projekt klonen.
 
-IntelliJ öffnen.
+In IntelliJ öffnen.
 
 Im Code Ordner:
 
